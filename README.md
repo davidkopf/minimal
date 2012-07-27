@@ -1,0 +1,4 @@
+minimal
+=======
+
+cache test
